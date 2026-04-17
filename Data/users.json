@@ -1,0 +1,17 @@
+[
+  { "user_id": "u1", "name": "Naveen", "city": "Chennai", "risk_level": "low" },
+  {
+    "user_id": "u2",
+    "name": "Arjun",
+    "city": "Hyderabad",
+    "risk_level": "medium"
+  },
+  { "user_id": "u3", "name": "Rahul", "city": "Delhi", "risk_level": "high" },
+  {
+    "user_id": "u4",
+    "name": "Kiran",
+    "city": "Bangalore",
+    "risk_level": "low"
+  },
+  { "user_id": "u5", "name": "Sneha", "city": "Mumbai", "risk_level": "medium" }
+]
